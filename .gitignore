@@ -1,0 +1,5 @@
+sc_copyToServer.bat
+startup.cmd
+
+/node_modules
+/public
