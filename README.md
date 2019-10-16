@@ -18,17 +18,6 @@ Node JS
 ### Installing
 
 ```
-Installing can be tricky.
-The following worked for me.
-
-npm install --global --production windows-build-tools from an elevated PowerShell or CMD.exe (run as Administrator).
-npm config set msvs_version 2017 --global
-npm install node-gyp
-npm install node-expat (as Administrator)
-npm install xml2json (as Administrator)
-
-** You may need to install VS 2017 Community.  You may need to google installing above packages.
-
 In the root directory, type `npm install` in the terminal.
 In the root directory, type `set DEBUG=myapp:* & npm start` in the terminal.
 ```
