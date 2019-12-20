@@ -1,4 +1,6 @@
-# [DEPRECATED - This project is no longer needed.  I'll keep it up for reference only.] Simcoe County Geoserver Rest Custom Rest API
+# [DEPRECATED - This project is no longer needed.  I'll keep it up for reference only.] 
+
+# Simcoe County Geoserver Rest Custom Rest API
 
 Node JS Express API. This adapts the existing GeoServer Rest Api and adds in customizations. For now it adds in all Layer Details for a layer group.
 This allows a single URL call to a layer group and get all layer details as well.
